@@ -1,1 +1,7 @@
+<<<<<<< HEAD
+Agua
+=======
 Aigua
+Refresc
+Cerveza
+>>>>>>> upstream/master
