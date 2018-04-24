@@ -5,5 +5,14 @@ Toni
 Juanma
 Joan
 Zhiwei
+<<<<<<< HEAD
 xavi
+=======
+<<<<<<< HEAD
+=======
+Borja
+Celia
+Albert
+>>>>>>> bf2e24280484db7d0e68d12db39dd98207d25bcb
+>>>>>>> c16214c567f417b2f23c0ab38b566736d57688d9
 >>>>>>> upstream/master
