@@ -2,3 +2,4 @@ Carne de buey
 jamon
 ramen
 pollastre
+ternera
