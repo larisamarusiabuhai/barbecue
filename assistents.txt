@@ -5,8 +5,6 @@ Toni
 Juanma
 Joan
 Zhiwei
-<<<<<<< HEAD
-=======
 Borja
 Celia
 Albert
