@@ -7,4 +7,8 @@ jamon
 ramen
 pollastre
 ternera
+<<<<<<< HEAD
 >>>>>>> developer
+=======
+costillas
+>>>>>>> ed262142d354330bc1aa989b6f9cbddf265f6531

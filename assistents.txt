@@ -1,10 +1,11 @@
 <<<<<<< HEAD
 Christian
-=======
 Toni
 Juanma
 Joan
 Zhiwei
+xavii
 Borja
 Celia
+Albert
 >>>>>>> upstream/master
