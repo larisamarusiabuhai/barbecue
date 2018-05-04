@@ -2,4 +2,12 @@
 Agua
 =======
 Aigua
+<<<<<<< HEAD
+<<<<<<< HEAD
+Refresc
+Cerveza
+Cola
+=======
+Beer
+>>>>>>> borjaarcos
 >>>>>>> upstream/master

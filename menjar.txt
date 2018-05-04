@@ -1,2 +1,10 @@
+entrepa
 Carne de buey
+<<<<<<< HEAD
 Salchichas de pavo
+=======
+jamon
+ramen
+pollastre
+ternera
+>>>>>>> developer
